@@ -1,5 +1,5 @@
 # My simple PE-Parser
-## what it does:
+## What it does:
 - Find pid and parent pid of a target process by name.
 - Get Machine Type of a PE file. 
 - Find program path and command line.
